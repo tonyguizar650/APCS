@@ -5,10 +5,10 @@
  * The game will tell the user to enter in as many words from the English language beginning 
  * with a random letter from the alphabet.  The user has 60 seconds to enter as many English 
  * words possible starting with the first letter. The program will read the word and check if 
- * it is in the text file and if it starts with the letter assigned . If it is, then the user’s 
- * score will increment by one point, if it is not, then it won’t increment. The user gets one 
+ * it is in the text file and if it starts with the letter assigned . If it is, then the userâ€™s 
+ * score will increment by one point, if it is not, then it wonâ€™t increment. The user gets one 
  * point for every correct word they enter within 60 seconds, and in the end of the program, the
- *  user’s score will be printed.
+ *  userâ€™s score will be printed.
  *  I RECIEVED HELP FROM ISABELLE ONLY
  */
 import java.util.*;
